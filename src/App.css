@@ -60,5 +60,26 @@ body {
 @media (max-width: 990px) {
   .app {
     flex-direction: column;
+    align-self: center;
+  }
+
+  .app__header > h1 {
+    font-size: 1.5rem;
+  }
+
+  .app__header {
+    margin-bottom: 25px;
+  }
+
+  .app__dropdown {
+    width: 200px;
+  }
+
+  .app__left {
+    margin-bottom: 20px;
+  }
+
+  .app__stats {
+    height: 100px;
   }
 }

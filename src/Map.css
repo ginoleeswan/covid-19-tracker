@@ -27,6 +27,7 @@
   background-size: cover;
   background-position: center;
   border-radius: 8px;
+  margin-bottom: 10px;
 }
 
 .info-flag img {
@@ -37,6 +38,30 @@
 .info-confirmed,
 .info-recovered,
 .info-deaths {
-  font-size: 16px;
+  font-size: 15px;
   margin-top: 5px;
+}
+
+@media screen and (max-width: 480px) {
+  .map {
+    height: 200px;
+  }
+
+  .info-name {
+    font-size: 15px;
+  }
+
+  .info-confirmed,
+  .info-recovered,
+  .info-deaths {
+    font-size: 10px;
+  }
+
+  .info-flag {
+    height: 50px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    border-radius: 8px;
+  }
 }

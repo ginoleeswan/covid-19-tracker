@@ -17,3 +17,9 @@
 .table tr:nth-of-type(odd) {
   background-color: #f3f2f8;
 }
+
+@media screen and (max-width: 480px) {
+  .table {
+    height: 130px;
+  }
+}
