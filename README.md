@@ -26,21 +26,20 @@
 
 <div align="right">
 
-&nbsp; I wanted to make a responsive web app relevent and needed for todays world.\
-&nbsp; My main focus was to create an **interactive dashboard** that pulls data dynamically using an external API.
+&nbsp; I wanted to make a relevent responsive web app needed for todays world.\
+&nbsp; My goal was to create an **interactive dashboard** that pulls data dynamically using external API.
 
 &nbsp; This was my first use of **Material-UI** for easier and more efficient component styling.\
 &nbsp; Using this framework made the styling process much faster.
 
-&nbsp; I used **Chart.js** library to implement my table and the map was done with **Leaflet**.\
-&nbsp; Both these components were easy to link up to the API and style.\
-&nbsp; My first time setting up the leaflet map was a bit complicated due to weak documentation on their side.
+&nbsp; Used **Chart.js** library to implement the table. Map was done with **Leaflet**.\
+&nbsp; Both components were easy to link up to the API and style.\
+&nbsp; Setting up the leaflet map for the first time was complicated due to weak documentation.
 
 &nbsp; **Firebase** was used for deployment which was not that different from gh-pages.\
 &nbsp; I plan to explore and use firebase in my future project for simple back-end and authentication.
 
-&nbsp; Again, this app tested my ablilty to fix & optimize for **mobile screen size**.\
-&nbsp; However, this time the job was less tedious as styling was neatly organized in a Material-UI implementation.
+&nbsp; Optimizing **mobile screen size** was less tedious as styling was implemented in Material-UI.
 
 </div>
 
