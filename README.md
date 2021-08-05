@@ -15,10 +15,10 @@
 
 <p align="center">
 <a href="https://covid-19-tracker-3342b.web.app/">
-    <img src="./images/covid-tracker-web.png" width="600" height="400"  alt="covid web" />
+    <img src="https://raw.githubusercontent.com/ginoleeswan/covid-19-tracker/master/images/covid-tracker-web.png" width="600" height="400"  alt="covid web" />
   </a>
   <a href="https://covid-19-tracker-3342b.web.app/">
-    <img src="./images/covid-tracker-mobile.png" width="210" height="400"  alt="covid mobile" />
+    <img src="https://raw.githubusercontent.com/ginoleeswan/covid-19-tracker/master/images/covid-tracker-mobile.png" width="210" height="400"  alt="covid mobile" />
   </a>
 </p>
 
