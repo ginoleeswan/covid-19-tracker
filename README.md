@@ -1,6 +1,6 @@
-<h1 align="center">🦠 Covid-19 Tracker 🦠</h1>
+<h1 align="center">🦠 COVID-19 Tracker 🦠</h1>
 
-<p align="center"> Made in React, constructed with create-react-app, utilizing disease.sh API. </p>
+<p align="center"> Made in React using Material-UI, constructed with create-react-app, utilizes disease.sh API. </p>
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -49,7 +49,7 @@
 - 💉 &nbsp; Add vaccine stats
 - 📅 &nbsp; Timeline of virus spread
 - 🏙️ &nbsp; Filter cases by city
-- 🌡️ &nbsp; Refine color pallete to reflect severity
+- 🎨 &nbsp; Refine color pallete
 - 📊 &nbsp; More interactive charts & tables
 
 <h2 align="right">🚀 &nbsp; Deployment</h2>
