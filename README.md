@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<h2 align="center">☀️ <a href="https://covid-19-tracker-3342b.web.app/">See Live</a> ☀️</h2>
+<h2 align="center">😷 <a href="https://covid-19-tracker-3342b.web.app/">See Live</a> 😷</h2>
 
 <p align="center">
 <a href="https://covid-19-tracker-3342b.web.app/">
